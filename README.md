@@ -1,4 +1,4 @@
-# Exchange Rate App
+# Exchange Rate App By  Jigar Dhulla -  https://github.com/jigar-dhulla/
 
 * Simple exchange rate app for EUR/INR.
 * Using exchangerate.host service to fetch the rates
